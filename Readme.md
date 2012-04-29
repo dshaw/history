@@ -4,7 +4,7 @@ Project history cli tool.
 
 ## Usage
 
-    $ history 0.1.0
+    $ hist 0.1.0
     last revision: 0.0.9
 
     0.1.1 / 2012-04-29
@@ -14,12 +14,12 @@ Project history cli tool.
 
 ## Commands
 
-    `history` - prints help.
-    `history version` - view current project version.
-    `history {version}` - creates/updates History.md interactively, sets package.json version.
-    `history view` - view entire history.
+    `hist` - prints help.
+    `hist version` - view current project version.
+    `hist {version}` - creates/updates History.md interactively, sets package.json version.
+    `hist view` - view entire history.
 
-    `history -v` - view history version number.
+    `hist -v` - view history version number.
 
 ## Dammit, I want to use `HISTORY`, not `History.md`
 
